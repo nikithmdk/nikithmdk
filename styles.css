@@ -30,22 +30,4 @@ summary {
     font-size: 15px;
 }
 
-* {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-}
 
-@media (max-width: 600px) {
-   header {
-       font-size: 18px;
-       padding: 10px 0;
-}
-    .button{
-        width:100%;
-        padding:15px;
-        font-size:18px;
-    }
-    main {
-        font-size:18px;
-        padding:10px;}
