@@ -32,7 +32,6 @@ main {
     text-align:left;
     font-size: 25px;
     color: #333;
-    padding:20px;
 }
 
 @media (max-width: 600px) {
