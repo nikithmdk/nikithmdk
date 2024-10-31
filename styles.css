@@ -18,7 +18,6 @@ h2, h3, h4, h5 {
 p, label {
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size:4vw;
-    word-break: break-all;
 }
 
 mark {
@@ -29,9 +28,7 @@ summary {
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
     font-size: 15px;
 }
- main {
-        word-break: break-all;
-    }
+
 * {
     box-sizing: border-box;
     margin: 0;
@@ -40,7 +37,6 @@ summary {
 @media (max-width: 640px) {
     h2, h3, h4, h5 {
         font-size: 4vw;
-        word-break: break-all;
     }
     main {
         font-size: 4vw; 
