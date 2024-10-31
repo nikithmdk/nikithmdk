@@ -35,7 +35,7 @@ summary {
     margin: 0;
     padding: 0;
 }
-@media (max-width: 600px) {
+@media (max-width: 640px) {
     h2, h3, h4, h5 {
         font-size: 4vw;
         word-break: break-all;
