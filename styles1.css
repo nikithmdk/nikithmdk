@@ -1,3 +1,5 @@
+@media screen and (max-width:481px {
+
 header {
     background-color: #f0f0f0;
     color: black;
@@ -33,15 +35,12 @@ main {
     font-size: 25px;
     color: #333;
 }
-
-@media (max-width: 600px) {
-  
-}
-    
+ 
 
 * {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+}
 }
 
