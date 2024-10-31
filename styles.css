@@ -35,6 +35,10 @@ summary {
     padding: 0;
 }
 @media (max-width: 600px) {
+    h2, h3, h4, h5 {
+        font-size: 4vw;
+        overflow-wrap:break-word;
+    }
     main {
         font-size: 4vw; 
         overflow-wrap:break-word;
