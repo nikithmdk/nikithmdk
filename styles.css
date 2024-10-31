@@ -1,6 +1,10 @@
+body {
+    font-size:16px;
+    line-height:1.5;
+    padding:10px;}
 h1 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 4vw;
+    font-size: 2.5em;
     color: black;
     border: 20px solid gray ;
     border-radius: 15px;
@@ -10,14 +14,14 @@ h1 {
 
 
 h2, h3, h4, h5 {
-    font-size: 4vw;
+    font-size: 2em;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: center;
 }
 
 p, label {
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size:4vw;
+    font-size:1.2em;
 }
 
 mark {
@@ -36,10 +40,10 @@ summary {
 }
 @media only screen and (min-height: 568px) and (orientation: portrait){
     h2, h3, h4, h5 {
-        font-size: 4vw;
+        font-size: 1.5em;
     }
     main {
-        font-size: 4vw; 
+        font-size: 1em; 
         word-break: break-all;
     }
 
