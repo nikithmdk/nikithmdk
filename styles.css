@@ -34,7 +34,7 @@ summary {
     margin: 0;
     padding: 0;
 }
-@media (max-width: 640px) {
+@media (max-width: 320px) {
     h2, h3, h4, h5 {
         font-size: 4vw;
     }
