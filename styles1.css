@@ -1,3 +1,4 @@
+@media (max-width: 600px) {
 header {
     background-color: #f0f0f0;
     color: black;
@@ -24,6 +25,9 @@ body {
     margin:0;
     padding:0;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(320deg,#ffffff,#9aafa0);
 }
 
 main {
@@ -37,19 +41,7 @@ main {
     margin: 0;
     padding: 0;
 }
-@media only screen and (min-height: 568px) and (orientation: portrait)  
-{  main {
-        font-size: 4vw; 
-    }
 
-    header {
-        font-size: 15px; 
-    }
-
-    .button {
-        font-size: 14px; 
-    }
 }
-
 
 
