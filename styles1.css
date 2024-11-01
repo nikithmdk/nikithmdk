@@ -6,7 +6,16 @@ header {
     text-align: center;
 }
 
-.button {
+
+.container{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh
+}
+
+    
+.center-button {
     display: inline-block;
     padding: 10px 20px;
     background: #ffffff;
@@ -17,7 +26,7 @@ header {
     
 }
 
-.button:hover {
+.center-button:hover {
     background: #217788;
     transform: scale(1.05);
 }
